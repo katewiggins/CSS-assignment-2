@@ -50,13 +50,11 @@ section {
 }
 
 h2 {
-    text-align: center;
+    text-align: left;
 }
 
 article {
     display: flex;
-    flex-direction: column;
-    align-items: center;
     padding: 1rem;
 }
 
@@ -78,7 +76,6 @@ article {
 }
 
 .text {
-    background: #fff;
     padding: 1rem;
     line-height: 1.5rem;
     margin-bottom: 2rem;
